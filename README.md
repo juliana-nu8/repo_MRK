@@ -13,6 +13,7 @@ descripcion
 ## Esquemas electricos o electronicos
 MODELO ESQUEMÁTICO
 https://github.com/juliana-nu8/repo_MRK/blob/master/bluethoot%20proyect%20(1)_esquem%C3%A1tico.png
+
 MODELO PNG
 https://github.com/juliana-nu8/repo_MRK/blob/master/bluethoot%20proyect%20(1)_pcb.png
 
