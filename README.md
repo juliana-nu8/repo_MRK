@@ -11,7 +11,7 @@ descripcion
 ## Diseño
 
 ## Esquemas electricos o electronicos
-(esquemático)https://github.com/juliana-nu8/repo_MRK/blob/master/bluethoot%20proyect%20(1)_esquemático.png
+https://github.com/juliana-nu8/repo_MRK/blob/master/bluethoot%20proyect%20(1)_esquem%C3%A1tico.png
 https://github.com/juliana-nu8/repo_MRK/blob/master/bluethoot%20proyect%20(1)_pcb.png
  
 ## Prototipo 
