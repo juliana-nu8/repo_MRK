@@ -11,7 +11,7 @@ descripcion
 ## Diseño
 
 ## Esquemas electricos o electronicos
- _tarea del diseñador_
+https://github.com/juliana-nu8/repo_MRK/blob/master/bluethoot%20proyect%20(1)_esquemático.png
  
 ## Prototipo 
 (modelo 3D y plano de breadboard)
